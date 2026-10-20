@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/criminality-spam2-o5gij6w5ghxfpk.lua"))()
