@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/prospecting-spam3-qqy1qwbkgz0w4t.lua"))()
