@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/it-wants-in-horror-spam6-kqi9etp0gu767y.lua"))()
