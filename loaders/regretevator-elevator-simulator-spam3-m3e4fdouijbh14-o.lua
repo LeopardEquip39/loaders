@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/regretevator-elevator-simulator-spam3-m3e4fdouijbh14.lua"))()
