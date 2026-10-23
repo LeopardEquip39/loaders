@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/catch-the-artist-spam5-i469d5kgkyujic.lua"))()
