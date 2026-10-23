@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/x20-1-speed-keyboard-escape-candy-chocol-spam3-dbym2gw9l32r7c.lua"))()
